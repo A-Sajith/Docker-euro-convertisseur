@@ -35,9 +35,11 @@ docker run -it Docker-euro-convertisseur
 
 ## Structure du projet
 
+```
 Docker-euro-convertisseur/
 ├── convertisseur.py   # Code principal
 └── Dockerfile         # Configuration Docker
+```
 
 ## Ce que j'ai appris
 
